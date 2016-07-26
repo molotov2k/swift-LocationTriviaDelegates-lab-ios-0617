@@ -18,6 +18,8 @@ class Location {
     }
 }
 
+
+
 class Trivium {
     var content: String
     var likes: Int = 0
